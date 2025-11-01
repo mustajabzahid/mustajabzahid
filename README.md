@@ -28,8 +28,9 @@
 | Project | Description | Tech Used |
 |----------|--------------|-----------|
 | 🌾 **Irrigation Company Website** | Designed and developed a full business website for an irrigation company. | HTML, CSS, PHP, MySQL |
-| 💬 **FAQ Platform** | Built a simple FAQ system to manage and display knowledge-based content. | JavaScript, Bootstrap, PHP |
 | 📰 **StartupPakistan-style News Portal** | Created a dynamic news platform similar to StartupPakistan. | PHP, MySQL, Bootstrap |
+| 💬 **FAQ Platform** | Built a simple FAQ system to manage and display knowledge-based content. | JavaScript, Bootstrap, PHP |
+
 
 ---
 
