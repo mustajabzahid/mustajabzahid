@@ -1,36 +1,62 @@
-# 👋 Hi, I'm Mustajab Zahid  
-### 💻 Full Stack Web Developer | BSCS Student at University of Lahore  
+<!-- Mustajab Zahid - Professional GitHub Profile README -->
 
-I'm a passionate and self-taught full stack web developer currently pursuing my BSCS degree.  
-I enjoy building real-world web applications and learning new technologies every day.  
-
----
-
-### 🚀 Tech Stack  
-**Frontend:** HTML | CSS | Bootstrap | JavaScript | React.js (learning)  
-**Backend:** PHP | Node.js | Express.js | MySQL | MongoDB  
-**Tools:** Git | GitHub | VS Code | Postman | Figma  
+<h1 align="center">Hi 👋, I'm Mustajab Zahid</h1>
+<h3 align="center">🚀 Full Stack Web Developer | BSCS Student at University of Lahore</h3>
+<p align="center">
+💡 Passionate about building real-world web solutions and learning modern technologies.
+</p>
 
 ---
 
-### 🧠 What I’m Currently Doing  
-- Learning the MERN Stack (Node.js, React.js, MongoDB)  
-- Building practical projects to strengthen my portfolio  
-- Looking for internship and freelance opportunities  
+### 👨‍💻 About Me
+🎓 I'm a BSCS student at the **University of Lahore**, currently exploring the full-stack development journey.  
+💻 I’ve built real working projects for clients, including a **complete website for an irrigation company**, a **FAQ platform**, and a **StartupPakistan-style news site** (PHP + MySQL).  
+🌱 Currently learning **Node.js**, **React.js**, and **MongoDB** to complete my MERN stack.  
+🎯 My goal is to gain professional experience through **internships** and **freelance projects**.  
+📫 Reach me at **mustajabzahid@gmail.com**  
 
 ---
 
-### 💼 Projects  
-🔹 **Irrigation Company Website** – Developed a responsive business site using PHP, MySQL, and Bootstrap. Client was highly satisfied.  
-🔹 **FAQ Web App** – Built a simple and user-friendly FAQ system with dynamic interaction.  
-🔹 **Startup News Clone** – Created a startup-style news/blog site inspired by “Startup Pakistan” using PHP and MySQL backend.  
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,nodejs,react,mongodb,mysql,git,github,vscode" />
+</p>
 
 ---
 
-### 🌍 Connect With Me  
-📧 [mustajabzahid@gmail.com](mailto:mustajabzahid@gmail.com)  
-💼 [LinkedIn](https://linkedin.com/in/mustajabzahid)  
+### 🚀 Featured Projects
+| Project | Description | Tech Used |
+|----------|--------------|-----------|
+| 🌾 **Irrigation Company Website** | Designed and developed a full business website for an irrigation company. | HTML, CSS, PHP, MySQL |
+| 💬 **FAQ Platform** | Built a simple FAQ system to manage and display knowledge-based content. | JavaScript, Bootstrap, PHP |
+| 📰 **StartupPakistan-style News Portal** | Created a dynamic news platform similar to StartupPakistan. | PHP, MySQL, Bootstrap |
 
 ---
 
-⭐ *"Code, Learn, and Build — one project at a time."*
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mustajabzahid&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustajabzahid&theme=tokyonight" alt="GitHub streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustajabzahid&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+---
+
+### 🌍 Connect with Me
+<p align="center">
+  <a href="mailto:mustajabzahid@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mustajabzahid" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/mustajabzahid" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+### 💬 Motto
+> "Code. Learn. Build. Repeat."
+
+---
+⭐️ *Crafted with passion by Mustajab Zahid*
