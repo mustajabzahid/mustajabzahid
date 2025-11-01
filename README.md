@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 🎓 I'm a BSCS student at the **University of Lahore**, currently exploring the full-stack development journey.  
-💻 I’ve built real working projects for clients, including a **complete website for an irrigation company**, a **FAQ platform**, and a **StartupPakistan-style news site** (PHP + MySQL).  
+💻 I’ve built real working projects for clients, including a **complete website for an irrigation company**, a **StartupPakistan-style news site** (PHP + MySQL) and a **FAQ platform**.
 🌱 Currently learning **Node.js**, **React.js**, and **MongoDB** to complete my MERN stack.  
 🎯 My goal is to gain professional experience through **internships** and **freelance projects**.  
 📫 Reach me at **mustajabzahid@gmail.com**  
