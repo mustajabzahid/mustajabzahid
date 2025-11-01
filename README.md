@@ -33,19 +33,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustajabzahid&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustajabzahid&theme=tokyonight" alt="GitHub streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustajabzahid&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
----
-
 ### 🌍 Connect with Me
 <p align="center">
   <a href="mailto:mustajabzahid@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
